@@ -1,3 +1,60 @@
-body{
-    background-color: red;
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0px;
+    color: #3f3f3f;
+}
+
+header {
+    background-color: #00001d;
+    color: #ffffff;
+    padding: 15px;
+    text-align: center;
+}
+
+span {
+    color: #9acd32;
+}
+
+nav {
+    color: #9acd32;
+}
+
+main {
+    background-color: #e0e0e0;
+    padding: 15px;
+}
+
+article {
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.blanco {
+    background-color: #ffffff;
+}
+
+.autor {
+    background-color: #e0e0e0;
+    padding: 15px;
+    text-align: center;
+}
+
+.poema {
+    background-color: #8fac55;
+    color: #00001d;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-style: italic;
+}
+
+footer {
+    background-color: #00001d;
+    color: #ffffff;
+    padding: 15px;
+    text-align: center;
+}
+
+img {
+    border: 5px solid #9acd32;
+    border-radius: 50%;
 }
