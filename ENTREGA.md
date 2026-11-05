@@ -9,6 +9,7 @@
 - Repositorio de GitHub: https://github.com/nedaro34/tp-integrador-git-Romero-Nelson-Daniel
 - Issue: https://github.com/nedaro34/tp-integrador-git-Romero-Nelson-Daniel/issues/2
 - Pull request: https://github.com/nedaro34/tp-integrador-git-Romero-Nelson-Daniel/pull/4
+- Aclaración: mi rama principal se llama master
 
 ## Comandos principales utilizados
 
